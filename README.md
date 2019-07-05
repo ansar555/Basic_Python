@@ -1,8 +1,8 @@
-Heading 1
+Basic Python
 -----------------
 
 
-*Italics*
+
 
 This is all about how to learn basic python, some analysis using numpy,pandas and also visualization.
 
